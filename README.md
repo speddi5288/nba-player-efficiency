@@ -2,8 +2,12 @@
 
 Machine learning project predicting NBA Player Efficiency Rating (PER) using 31,000+ player-season records from 1947–2025. Applies Linear Regression and Decision Tree models alongside statistical hypothesis testing to identify key performance drivers.
 
+## 🌐 Live Project
+View the full analysis here: [NBA Player Efficiency Analysis](https://speddi5288.github.io/nba-player-efficiency/NBA.html)
+
 ## 📁 Files
-- `NBA.ipynb` — Main Jupyter notebook with full analysis
+- `NBA_.ipynb` — Main Jupyter notebook with full analysis
+- `NBA.html` — Rendered HTML version of the notebook
 - `Advanced.csv` — Dataset sourced from [Basketball Reference via Kaggle](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats)
 
 ## 🔬 Research Questions
